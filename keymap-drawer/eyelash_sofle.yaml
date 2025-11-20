@@ -56,13 +56,13 @@ layers:
   - $$mdi:volume-off$$
   - '&studio_unlock'
   - PRINTSCREEN
-  - $$mdi:apple-keyboard-command$$
-  - $$mdi:apple-keyboard-control$$
-  - $$mdi:keyboard-space$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:keyboard-space$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '$$mdi:backspace$$', type: backspace}
+  - LEFT META
+  - $$mdi:apple-keyboard-control$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-space$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:keyboard-esc$$
   - layer1
   - $$mdi:apple-keyboard-control$$
   layer1:
