@@ -64,7 +64,7 @@ layers:
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:keyboard-esc$$
   - layer1
-  - $$mdi:apple-keyboard-control$$
+  - {t: \, s: '|'}
   layer1:
   - {t: '`', s: '~'}
   - F1
@@ -105,7 +105,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:bluetooth-off$$
   - RGB OFF
   - RGB ON
   - RGB EFF
